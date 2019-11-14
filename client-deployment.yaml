@@ -5,7 +5,7 @@ metadata:
 spec:
         replicas: 1
         selector:
-                matchLabesl:
+                matchLabels:
                         component: web
         template:
                 metadata:
